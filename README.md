@@ -4,6 +4,9 @@ Respository belongs to practise sessions or assignemnts regadring my power BI tr
 # Assignment 1
 
 The assignemnt is regarding the power BI and assignemnt one we are working with transform the data with power BI.
+# Question :  
+
+Here is the dataset of a store, which has branches all over the world. The stakeholders require the detailed report on their sale transaction. Perform the basic data cleaning Dataset.
 
 # Steps done
 
