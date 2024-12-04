@@ -10,5 +10,6 @@ The assignemnt is regarding the power BI and assignemnt one we are working with 
 1. Upload the sheet/ file from sources.
 2. Transform to power query for editing data's heading.
 3. Removed duplicate datas from each tables.
-4. Removed blank row/columns from each tables.
-5. Saved the work.
+4. Removed blank row from each tables.
+5. Removed column having null values.
+6. Saved the work.
