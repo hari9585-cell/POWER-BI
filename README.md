@@ -8,7 +8,7 @@ The assignemnt is regarding the power BI and assignemnt one we are working with 
 # Steps done
 
 1. Upload the sheet/ file from sources.
-2. Transform those data's heading.
+2. Transform to power query data's heading.
 3. Removed duplicate datas from each tables.
 4. Removed blank row/columns from each tables.
 5. Saved the work.
