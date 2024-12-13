@@ -25,10 +25,12 @@ Respository belongs to practise sessions or assignemnts regadring my power BI tr
 Data Visualisation and DAX functon performance.
 
 # Steps done
+
 1.Downloaded data set from resource source. 
 2.Upload in power BI from excel source. 
 3.Transform data and cleared duplicated data.
 4.Removed null datas from sheet. 
-5.Transform to powerquery for editing data's heading. 6.Done DAX function with table creation and measure values. 
+5.Transform to powerquery for editing data's heading. 
+6.Done DAX function with table creation and measure values. 
 7.Added relationship with datas. 
 8.Created a visualisation and saved the work.
