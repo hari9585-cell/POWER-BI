@@ -34,3 +34,7 @@ Data Visualisation and DAX functon performance.
 6.Done DAX function with table creation and measure values. 
 7.Added relationship with datas. 
 8.Created a visualisation and saved the work.
+
+
+#POWER BI
+
